@@ -112,5 +112,11 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 ![Screenshot 2025-04-12 154152](https://github.com/user-attachments/assets/5b47afc3-3bd9-46d7-b2c2-d3af4f0f9812)
 ![Screenshot 2025-04-12 154043](https://github.com/user-attachments/assets/cb39b283-7795-4529-86d8-0c2db7e393ba)
 
+## Calculation
+![image](https://github.com/user-attachments/assets/2509361e-4980-40aa-be43-d77cf2a5389c)
+![image](https://github.com/user-attachments/assets/391cef79-b019-4428-ba73-04cb14551506)
+![image](https://github.com/user-attachments/assets/800ce719-3b2a-4dcd-a4f2-935ef1d57497)
+
+
 ## Results
 Thus linear block code operation for the given input is successfully verified.
